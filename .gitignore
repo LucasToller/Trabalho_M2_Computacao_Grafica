@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Arquivos de compilacao
+*.o
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+
+# OBJ de compilacao C/C++, mas manter os modelos 3D da pasta data
+*.obj
+!data/*.obj
+
+# VS Code
+.vscode/
