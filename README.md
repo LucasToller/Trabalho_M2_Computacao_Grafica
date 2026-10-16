@@ -23,7 +23,6 @@ Trabalho_M2_Computacao_Grafica/
 ├── textura.cpp          # leitura de BMP 24 bits e criação da textura OpenGL
 ├── data/                # modelos .obj
 ├── Textures/            # imagens BMP fornecidas pelo professor
-├── exemplos/            # códigos-base do professor
 ├── freeglut/
 ├── freeglut.dll
 └── .gitignore
